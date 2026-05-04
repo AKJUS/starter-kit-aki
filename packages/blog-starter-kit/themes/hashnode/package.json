@@ -30,7 +30,7 @@
 		"gray-matter": "^4.0.3",
 		"html-react-parser": "^4.2.2",
 		"js-cookie": "^3.0.5",
-		"lodash": "^4.17.21",
+		"lodash": "^4.18.1",
 		"mongodb": "3.7.3",
 		"next-axiom": "0.18.0",
 		"next-urql": "5.0.2",
@@ -40,11 +40,11 @@
 		"react-waypoint": "^10.3.0",
 		"remark": "^14.0.2",
 		"remark-html": "^15.0.1",
-		"sanitize-html": "2.11.0",
+		"sanitize-html": "2.12.1",
 		"tailwind-merge": "^1.13.2",
 		"urql": "4.0.4",
-		"uuid": "^9.0.1",
-		"validator": "^13.6.0",
+		"uuid": "^14.0.0",
+		"validator": "^13.15.22",
 		"zustand": "^4.3.3"
 	},
 	"devDependencies": {
